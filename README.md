@@ -65,9 +65,9 @@ $ git clone https://github.com/NearHuiwen/CarHouseCrawl.git
 ## 运行步骤：
 1、先运行brand_sp_main.py 爬取全部汽车品牌，如下图：
 
-<img src="https://raw.githubusercontent.com/NearHuiwen/CarHouseCrawl/master/CarHouseCrawl/picture/a.png" width="800">
+<img src="https://raw.githubusercontent.com/NearHuiwen/CarHouseCrawl/master/CarHouseCrawl/picture/a1.png" width="800">
 
 2、再运行main.py 根据汽车品牌，爬取所有车型，如下图：
 
-<img src="https://raw.githubusercontent.com/NearHuiwen/CarHouseCrawl/master/CarHouseCrawl/picture/a.png" width="800">
+<img src="https://raw.githubusercontent.com/NearHuiwen/CarHouseCrawl/master/CarHouseCrawl/picture/b1.png" width="800">
 
